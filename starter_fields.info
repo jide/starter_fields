@@ -18,7 +18,6 @@ dependencies[] = link
 dependencies[] = list
 dependencies[] = number
 dependencies[] = options
-dependencies[] = starter_content_article
 dependencies[] = strongarm
 dependencies[] = taxonomy
 dependencies[] = text
